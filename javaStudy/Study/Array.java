@@ -10,5 +10,6 @@ public class Array {
         System.out.println("Arrays.toString을 활용한 배열 출력 : " + arr_toString);
         System.out.println("Arrays.toString의 길이 : " + arr_toString.length());
         System.out.println("Arrays.toString의 괄호 지우고 출력 : " + repl);
+        
     }
 }
